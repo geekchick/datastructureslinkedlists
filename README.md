@@ -1,5 +1,5 @@
 # LinkedLists Data Structures
-LinkedLists are used instead of Lists or Arrays in some cases. This code contains the most popular use cases for LinkedLists, including:
+LinkedLists are used in place of Lists or Arrays in some cases. This code contains the most popular use cases for LinkedLists, including:
 
 1. Adding a node at the beginning
 2. Adding a node at the end
